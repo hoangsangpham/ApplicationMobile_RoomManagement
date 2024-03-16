@@ -1,26 +1,25 @@
 Install:
 
-npx expo install react-native-svg
+- npx expo install react-native-svg
 
-npm install --save axios : Connect to mongooDB
+- npm install --save axios : Connect to mongooDB
 
-npm install @react-native-community/viewpager react-native-tab-view : Tab-View switches tabs within the same page
+- npm install @react-native-community/viewpager react-native-tab-view : Tab-View switches tabs within the same page
 
-npm install react-native-svg : Adjust svg color
+- npm install react-native-svg : Adjust svg color
 
 //Load data into options
-npm install react-native-picker-select
+- npm install react-native-picker-select
 
 #React Native users
-npm install @react-native-picker/picker
+- npm install @react-native-picker/picker
 
-npx pod-install
+- npx pod-install
 
 #Expo
-npx expo install @react-native-picker/picker
+- npx expo install @react-native-picker/picker
 
 Change IP in config page
-
 
 Running Instructions:
 Open 2 VSCode tabs
