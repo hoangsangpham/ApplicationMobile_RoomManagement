@@ -1,0 +1,25 @@
+npx expo install react-native-svg
+npm install --save axios : Kết nối với mongooDB
+npm install @react-native-community/viewpager react-native-tab-view : Tab-View chuyển các tab trong cùng 1 trang
+npm install react-native-svg : Chỉnh màu svg
+
+
+//Load dữ liệu vào option
+npm install react-native-picker-select
+
+# React Native users
+npm install @react-native-picker/picker
+npx pod-install
+
+# Expo
+npx expo install @react-native-picker/picker
+
+Đổi IP trang config 
+
+
+Hướng Dẫn Chạy: 
+Mở 2 tab VSCode
+- Tab 1 chạy Proj_QLPT: npx expo start --clear
+- Tab 2 chạy Proj_QLPT_ProjWebApiServer : npm start
+- Kiểm tra IP máy (ipconfig) -> Đổi IP khi chạy (trang config)
+- Mở mongooDB -> Connect

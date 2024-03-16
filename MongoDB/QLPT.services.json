@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "658314ec6ec0d7e5a1e53e2c"
+  },
+  "service_name": "Dien",
+  "service_charge": "35000",
+  "service_unit": "VND/Kwh",
+  "service_describe": "Dat tieu chuan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658315046ec0d7e5a1e53e31"
+  },
+  "service_name": "Nuoc",
+  "service_charge": "30000",
+  "service_unit": "VND/m3",
+  "service_describe": "Nuoc dat tieu chuan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6583151e6ec0d7e5a1e53e3c"
+  },
+  "service_name": "Thang may",
+  "service_charge": "100000",
+  "service_unit": "VND",
+  "service_describe": "Dat tieu chuan",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658315536ec0d7e5a1e53e5e"
+  },
+  "service_name": "Bao ve",
+  "service_charge": "200000",
+  "service_unit": "VND",
+  "service_describe": "Chat luong cao",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659550846784248f852077ca"
+  },
+  "service_name": "Internet",
+  "service_charge": "100000",
+  "service_unit": "VND",
+  "service_describe": "mang 4g\n",
+  "__v": 0
+}]

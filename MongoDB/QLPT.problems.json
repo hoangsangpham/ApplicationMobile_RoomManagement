@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "6583163f6ec0d7e5a1e53e94"
+  },
+  "problem_room": "P01",
+  "problem_time": "27/12/2023",
+  "problem_name": "Mat dien",
+  "problem_status": "Đang yêu cầu",
+  "problem_level": "Cao",
+  "problem_describe": "Mat dien 2 ngay lien tuc",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658316646ec0d7e5a1e53e97"
+  },
+  "problem_room": "P02",
+  "problem_time": "23/12/2023",
+  "problem_name": "Mat nuoc",
+  "problem_status": "Hoàn thành",
+  "problem_level": "Thấp",
+  "problem_describe": "Mat nuoc trong vong 2h",
+  "__v": 0
+}]

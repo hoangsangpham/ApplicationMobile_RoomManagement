@@ -1,0 +1,36 @@
+[{
+  "_id": {
+    "$oid": "658315f76ec0d7e5a1e53e7a"
+  },
+  "renter_name": "Sang",
+  "renter_phone": "0971048718",
+  "renter_dateofbirth": "01/01/2001",
+  "renter_cccd": "123456789",
+  "renter_address": "127 Ho Van Hue",
+  "renter_room": "P01",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658316146ec0d7e5a1e53e81"
+  },
+  "renter_name": "Phuc",
+  "renter_phone": "09090909",
+  "renter_dateofbirth": "01/01/1992",
+  "renter_cccd": "123099777",
+  "renter_address": "124 Ho Van Hue",
+  "renter_room": "P02",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659550fc6784248f8520780d"
+  },
+  "renter_name": "Nguyen Van A",
+  "renter_phone": "09090909",
+  "renter_dateofbirth": "01/02/2001",
+  "renter_cccd": "123345789",
+  "renter_address": "127 Ho Van Hue",
+  "renter_room": "P04",
+  "__v": 0
+}]

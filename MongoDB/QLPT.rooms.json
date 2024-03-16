@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "658315886ec0d7e5a1e53e69"
+  },
+  "room_name": "P01",
+  "room_price": "1000000",
+  "room_status": "Đã ở",
+  "room_deposit": "500000",
+  "room_service": "Dien, Nuoc",
+  "room_describe": "phong o tang 2",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658315a86ec0d7e5a1e53e6d"
+  },
+  "room_name": "P02",
+  "room_price": "2000000",
+  "room_status": "Đã ở",
+  "room_deposit": "500000",
+  "room_service": "Thang may, Dien, Nuoc",
+  "room_describe": "phong o tang 3",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658315c36ec0d7e5a1e53e71"
+  },
+  "room_name": "P04",
+  "room_price": "3000000",
+  "room_status": "Đã ở",
+  "room_deposit": "500000",
+  "room_service": "Nuoc, Dien",
+  "room_describe": "phong o tang 4",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "659550cb6784248f852077fd"
+  },
+  "room_name": "P05",
+  "room_price": "2000000",
+  "room_status": "Còn trống",
+  "room_deposit": "100000",
+  "room_service": "Thang may, Nuoc",
+  "room_describe": "Phong tang 2",
+  "__v": 0
+}]
