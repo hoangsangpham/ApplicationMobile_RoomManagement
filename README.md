@@ -1,8 +1,11 @@
 Install:
 
 npx expo install react-native-svg
+
 npm install --save axios : Connect to mongooDB
+
 npm install @react-native-community/viewpager react-native-tab-view : Tab-View switches tabs within the same page
+
 npm install react-native-svg : Adjust svg color
 
 //Load data into options
@@ -10,6 +13,7 @@ npm install react-native-picker-select
 
 #React Native users
 npm install @react-native-picker/picker
+
 npx pod-install
 
 #Expo
